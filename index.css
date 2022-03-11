@@ -1,0 +1,14 @@
+.btn-log{
+    width: 100%;
+}
+.icon{
+    text-align: center;
+    justify-content: center;
+}
+.icon-user{
+    height:150px;
+    width: 150px;
+}
+.form-footer span{
+    float: right;
+}
